@@ -105,6 +105,14 @@ export default function Register() {
             </a>
           </p>
         </div>
+
+        <div className="text-center">
+          <a href="../">
+            <button class="my-10 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
+              Homepage
+            </button>
+          </a>
+        </div>
       </div>
     </>
   );

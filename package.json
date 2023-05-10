@@ -1,10 +1,9 @@
 {
+  "homepage": "https://pushkalkishore.github.io/mongoDB-Basics",
   "name": "next-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
